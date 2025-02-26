@@ -1,0 +1,25 @@
+import javax.swing.*;
+public class Principal {
+
+    public static void main(String[] args) {
+        System.out.println("Olá");
+        JOptionPane.showMessageDialog(null, "Bem-vindo");
+        String nome;
+        nome = "ERIK";
+        
+        System.out.println("Olá " + nome);
+        JOptionPane.showMessageDialog(null,"Olá " + nome);
+        
+        String nome2;
+        nome2 = JOptionPane.showInputDialog("Digita teu nome ai:");
+        System.out.println("Olá " + nome2);
+        JOptionPane.showMessageDialog(null,"Olá " + nome2);
+        
+        Integer idade;
+        idade = Integer.parseInt(JOptionPane.showInputDialog("Digite sua idade:");
+        JOptionPane.showMessageDialog(null,"Seu nome é: " + nome + " e você tem: " + idade + " anos");
+       
+           
+    }
+    
+}
