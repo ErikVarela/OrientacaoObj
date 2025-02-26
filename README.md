@@ -1,0 +1,3 @@
+Este exercício explora os fundamentos da Programação Orientada a Objetos (POO) em Java, destacando conceitos essenciais como encapsulamento, herança e polimorfismo. Além disso, utilizamos a biblioteca javax.swing.* para criar uma interface gráfica interativa, proporcionando uma abordagem mais visual e dinâmica ao desenvolvimento de aplicações.
+
+A atividade reforça a estruturação do código em classes e objetos, incentivando boas práticas de organização e reutilização de código. O uso do Swing permite a criação de janelas, botões e caixas de diálogo, tornando o aprendizado mais intuitivo ao integrar lógica de programação com interfaces gráficas.
