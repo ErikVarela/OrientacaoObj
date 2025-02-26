@@ -16,7 +16,7 @@ public class Principal {
         JOptionPane.showMessageDialog(null,"Olá " + nome2);
         
         Integer idade;
-        idade = Integer.parseInt(JOptionPane.showInputDialog("Digite sua idade:");
+        idade = Integer.parseInt(JOptionPane.showInputDialog("Digite sua idade:"));
         JOptionPane.showMessageDialog(null,"Seu nome é: " + nome + " e você tem: " + idade + " anos");
        
            
